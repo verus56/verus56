@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @verus56<br>👀 Interested  app developement and vision<br>🌱 Currently learning AI and Image processing<br>💞️I'm a Visual Computing student at USTHB
+👋  Hi, I'm Thameur Hamzaoui, a Visual Computing Engineer deeply passionate about AI, Computer Vision, and Machine Learning. With a background in Computer Science and a Master's focus on advanced image analysis, I thrive on creating intelligent solutions that push the boundaries of technology. My journey includes building AI models, contributing to open-source, and mentoring others in the field. Outside coding, you'll find me exploring basketball courts, gaming realms, capturing moments through photography, and crafting compelling stories
 
 
 ## 🌐 Socials:
